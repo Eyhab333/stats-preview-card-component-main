@@ -24,13 +24,13 @@ main {
   grid-template-columns: 540px 540px;
 }
 
-.right {
+.image-header {
   background: #ab5cdb;
   height: 446px;
   border-radius: 0px 8px 8px 0px;
 }
 
-.right img {
+.image-header img {
   border-radius: 0px 8px 8px 0px;
   mix-blend-mode: multiply;
   max-width: 100%;
