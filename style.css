@@ -167,8 +167,8 @@ span {
     font-size: 28px;
     line-height: 32px;
     color: #ffffff;
-    width: 234px;
-    height: 96px;
+    width: 224px;
+    height: 111px;
     margin-top: 0px;
     margin-bottom: 0px;
     margin-block-start: 0em;
@@ -186,9 +186,9 @@ span {
     color: #ffffff;
     mix-blend-mode: normal;
     opacity: 0.75;
-    width: 234px;
+    width: 224px;
     height: 100px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
   }
 
   .bottom-section {
@@ -221,7 +221,7 @@ span {
 
   .bottom__h2 {
     font-weight: 700;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 29px;
     color: #ffffff;
     margin-bottom: 0px;
