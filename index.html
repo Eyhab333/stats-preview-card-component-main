@@ -34,7 +34,7 @@
   <body>
     <main>
       <div class="left">
-        <h1>Get <span>insights</span> that help your business grow.</h1>
+        <h1 class="top__h1">Get <span>insights</span> that help your business grow.</h1>
         <p class="top__p">Discover the benefits of data
           analytics and make better decisions regarding revenue, customer experience,
           and overall efficiency.</p>
@@ -49,12 +49,15 @@
             </div>
             <div class="queries">
               <h2 class="bottom__h2">12m+</h2>
-              <p class="bottom__p">queries</p>
+              <p class="bottom__p last">queries</p>
             </div>
           </div>
       </div>
-      <div class="right">
-        <img src="./images/image-header-desktop.jpg" alt="image-header-desktop">
+      <div class="image-header">
+        <picture>
+          <source media="(max-width: 375px)" srcset="./images/image-header-mobile.jpg">
+          <img src="./images/image-header-desktop.jpg" alt="desktop">
+        </picture>
       </div>
     </main>
   </body>
